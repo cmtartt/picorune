@@ -1,7 +1,5 @@
 # picorune 0.1
 
-
-
 A simple package for the Raspberry Pi Pico
 
 --
@@ -18,3 +16,4 @@ X button - Renders rune
 
 Y button - Reset bag
 
+Released under MIT License
